@@ -1,3 +1,3 @@
 ## HTTPie releases
 
-Version 17
+Version 19
