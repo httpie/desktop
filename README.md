@@ -1,3 +1,3 @@
 ## HTTPie releases
 
-Version 12
+Version 13
