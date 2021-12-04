@@ -3,7 +3,7 @@
 In this repository we publish releases of [HTTPie for Desktop](https://httpie.io/product).
 
 
-## Installing HTTPie for Desktop on Linux
+## Linux
 
 The Linux package uses [AppImage](https://appimage.org/). Please follow these instructions to install HTTPie for Desktop on Linux:
 
