@@ -1,3 +1,2 @@
-## HTTPie releases
+## HTTPie for Desktop
 
-Version 19
