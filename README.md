@@ -3,6 +3,10 @@
 In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux. The app continuously auto-updates after the initial installation.
 
 
+## Mac & Windows
+
+https://httpie.io/download
+
 ## Linux
 
 Please follow the instructions below to install HTTPie for Desktop on Linux. 
