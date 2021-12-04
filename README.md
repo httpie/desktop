@@ -1,6 +1,6 @@
 # HTTPie for Desktop
 
-In this repository, we publish releases of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux.
+In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux.
 
 
 ## Linux
