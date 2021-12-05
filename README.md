@@ -7,7 +7,7 @@ In this repository, we publish [releases](https://github.com/httpie/desktop/rele
 
 ## Mac & Windows
 
-https://httpie.io/download
+[**httpie.io/download →**](https://httpie.io/download)
 
 ## Linux
 
