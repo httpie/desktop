@@ -7,9 +7,11 @@ In this repository, we publish [releases](https://github.com/httpie/desktop/rele
 
 The app continuously auto-updates after the initial installation. [What’s new →](https://httpie.io/blog)
 
+
 ## Mac & Windows
 
 [**httpie.io/download →**](https://httpie.io/download)
+
 
 ## Linux
 
