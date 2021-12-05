@@ -5,7 +5,7 @@ In this repository, we publish [releases](https://github.com/httpie/desktop/rele
 
 ![](https://httpie.io/Blog/changelog-0004/desktop-icon-K3HO4RWN.jpg)
 
-The app continuously auto-updates after the initial installation.
+The app continuously auto-updates after the initial installation. [What’s new →](https://httpie.io/blog)
 
 ## Mac & Windows
 
