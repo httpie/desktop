@@ -3,6 +3,8 @@
 In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux. The app continuously auto-updates after the initial installation.
 
 
+![](https://httpie.io/Blog/changelog-0004/desktop-icon-K3HO4RWN.jpg)
+
 ## Mac & Windows
 
 https://httpie.io/download
