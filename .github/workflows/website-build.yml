@@ -5,7 +5,7 @@ on:
       - unpublished
       - deleted
 jobs:
-  trigger-doc-build:
+  trigger-website-build:
     runs-on: ubuntu-latest
     steps:
       - name: Install HTTPie
