@@ -12,7 +12,7 @@ The app continuously auto-updates after the initial installation.
 
 ## Mac & Windows
 
-[**httpie.io/download →**](https://httpie.io/download)
+[httpie.io/download →](https://httpie.io/download)
 
 
 ## Linux
