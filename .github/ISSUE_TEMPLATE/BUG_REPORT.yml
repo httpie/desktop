@@ -1,0 +1,71 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+# assignees:
+#   - Assign someone on your team here; Even better...create a new team in GH who are maintainers for this repo.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Provide a thorough description of whats going on.
+      placeholder: There's a problem with HTTPie Desktop 😱
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to reproduce?
+      description: Provide as much detail as possible to reproduce the issue.
+      placeholder: |
+        1. Launch the app
+        2. Click a button
+        3. Note the app crashes
+      render: Markdown
+    validations:
+      required: true
+  - type: textarea
+    id: what-are-expectations
+    attributes:
+      label: What did you expect to happen?
+      description: Also tell us, what did you expect to happen?
+      placeholder: I expected the app to continue running no matter how many times I tap the screen.
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which platform are you having an issue with?
+      options:
+        - macOS
+        - Linux
+        - Windows
+  - type: textarea
+    id: version
+    attributes:
+      label: HTTPie Desktop version
+      description: What version of HTTPie Desktop are you running?
+      placeholder: 2022.x.y
+      value: 2022.5.1
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: Shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](#You-code-of-conduct-which-i-hope-you-have)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
