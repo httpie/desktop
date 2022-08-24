@@ -4,7 +4,7 @@
 
 In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux. 
 
-The app is available in the browser — open HTTPie for Web: [httpie.io/app](https://httpie.io/app) or [req.new](https://req.new)
+The app is also available in the browser — open HTTPie for Web: [httpie.io/app](https://httpie.io/app) or [req.new](https://req.new)
 
 
 ![HTTPie for Desktop](.github/httpie-desktop.png)
