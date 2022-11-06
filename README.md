@@ -1,12 +1,6 @@
 # HTTPie for Web & Desktop
 
 
-
-In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux. 
-
-The app is also available in the browser — open HTTPie for Web: [httpie.io/app](https://httpie.io/app) or [req.new](https://req.new)
-
-
 ![HTTPie for Desktop](.github/httpie-desktop.png)
 
 [![HTTPie for Desktop](https://img.shields.io/static/v1?label=HTTPie&message=for%20Desktop&color=4B78E6)](https://httpie.io/product)
@@ -16,7 +10,11 @@ The app is also available in the browser — open HTTPie for Web: [httpie.io/app
 [![Twitter](https://img.shields.io/twitter/follow/httpie?style=flat&color=%234B78E6&logoColor=%234B78E6)](https://twitter.com/httpie)
 
 
-The app continuously auto-updates after the initial installation. 
+In this repository, we publish [releases](https://github.com/httpie/desktop/releases) of [HTTPie for Desktop](https://httpie.io/product) for Mac, Windows, and Linux. The app continuously auto-updates after the initial installation. 
+
+
+Open HTTPie for Web: [httpie.io/app](https://httpie.io/app) or [req.new](https://req.new)
+
 
 [What’s new →](https://httpie.io/blog)
 
