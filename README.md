@@ -1,4 +1,4 @@
-# HTTPie for Desktop
+# HTTPie for Web & Desktop
 
 
 
