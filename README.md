@@ -28,7 +28,7 @@ Open HTTPie for Web: [httpie.io/app](https://httpie.io/app) or [req.new](https:/
 
 Please follow the instructions below to install HTTPie for Desktop on Linux. 
 
-The Linux package uses [AppImage](https://appimage.org/), and you need to install it using [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) for the app to work:
+⚠️ The Linux package uses [AppImage](https://appimage.org/), and you need to install it using [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) for the app to work:
 
 1. Install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ([instructions](https://github.com/TheAssassin/AppImageLauncher#system-wide-installation))
 2. Download `HTTPie-*.AppImage` (or `HTTPie-*arm64.AppImage` for ARM64 architecture) from [the latest release](https://github.com/httpie/desktop/releases/latest) page
