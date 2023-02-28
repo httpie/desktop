@@ -33,3 +33,7 @@ Please follow the instructions below to install HTTPie for Desktop on Linux.
 1. Install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ([instructions](https://github.com/TheAssassin/AppImageLauncher#system-wide-installation))
 2. Download `HTTPie-*.AppImage` (or `HTTPie-*arm64.AppImage` for ARM64 architecture) from [the latest release](https://github.com/httpie/desktop/releases/latest) page
 3. Run `$ AppImageLauncher HTTPie-*.AppImage`
+
+### Arch(based) Linux distros
+
+Arch Linux and distributions based on it can use the AUR package `httpie-desktop-appimage` to install HTTPie for Desktop using your favourite AUR handler.
