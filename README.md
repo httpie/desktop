@@ -1,4 +1,4 @@
-# HTTPie for Web & Desktop
+# HTTPie Desktop
 
 ![HTTPie Desktop](.github/httpie-desktop.png)
 
